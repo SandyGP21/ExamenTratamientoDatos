@@ -3,7 +3,7 @@ Elaborado por: Sandra Gómez
 Maestría de Ciberseguridad
 
 Crear un clasificador de tipos de carnes que se utiliza en la industria real.
-Se va a generar un datframe con el resumen de las imagenes por carpeta de la carpeta Train.
+Se va a generar un dataframe con el resumen de las imagenes por carpeta de la carpeta Train.
 Exploramos la base de datos de entrenamiento que nos va a servir, leemos los directorios y luego se toma las dimensiones de las imagenes largo y ancho para conocer como estan distribuidas las imagenes, en este caso sacamos el minimo, maximo y promedio de como estan las imagenes.
 Todas las imagenes son del mismo tamaño, la clase mayoritaria es la clase05 y la clase1 no tiene imagenes.
 Se toma una muestra de las imagenes, para saber cual es la visulización, cada fila es una clase.
